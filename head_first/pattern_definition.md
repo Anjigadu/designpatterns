@@ -8,3 +8,7 @@ Strategy lets the algorithms changes, independently from the client uses it.
 2. Observer Pattern
 
 It defines the One to Many relationship between the objects. So when one object changes its state, the dependents get notified and updated automatically.
+
+3. Decorator Pattern
+
+It attaches additional responsibilities to an object dynamically. Decorators provide flexible alternative to subclassing for extending functionality.
