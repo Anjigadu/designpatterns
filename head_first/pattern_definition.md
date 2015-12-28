@@ -16,3 +16,5 @@ It attaches additional responsibilities to an object dynamically. Decorators pro
 4. Factory Method Pattern
 It defines interface for creating instances but lets the sub classes to decide which class to instantiate. Factory method lets the class to defer instantiation to its sub classes.
 
+5. Abstract Factory Pattern
+It provides an interface for creating family of related / dependent objects without specifying its concrete classes.
