@@ -12,3 +12,7 @@ It defines the One to Many relationship between the objects. So when one object 
 3. Decorator Pattern
 
 It attaches additional responsibilities to an object dynamically. Decorators provide flexible alternative to subclassing for extending functionality.
+
+4. Factory Method Pattern
+It defines interface for creating instances but lets the sub classes to decide which class to instantiate. Factory method lets the class to defer instantiation to its sub classes.
+
