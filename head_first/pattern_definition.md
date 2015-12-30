@@ -18,3 +18,6 @@ It defines interface for creating instances but lets the sub classes to decide w
 
 5. Abstract Factory Pattern
 It provides an interface for creating family of related / dependent objects without specifying its concrete classes.
+
+6. Singleton Pattern
+It ensures that the class has only one instance to it and provides global point of access to it.
