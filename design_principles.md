@@ -15,3 +15,5 @@ Design principles
 5. Classes should be open for extension but closed for Change.
 
 6. Depends upon abstractions not on concrete implementations. (dependency inversion principle)
+
+7. Principle of Lease knowledge - talk only to your immediate friends.
