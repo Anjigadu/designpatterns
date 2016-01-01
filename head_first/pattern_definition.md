@@ -35,3 +35,8 @@ This File contains the definitions for the standard design patterns.
 ### 8. Adapter Pattern
 
 > It converts the interface of a class into the interface that client expects. Adapter lets class to work together that couldn't otherwise due to incompatible interfaces.
+
+### 9. Facade Pattern
+
+> It provides an unified interface to set of interfaces in a subsystem. Facade defines a higher level interface that makes the subsystem easier to use.
+
