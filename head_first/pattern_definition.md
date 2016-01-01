@@ -29,4 +29,9 @@ This File contains the definitions for the standard design patterns.
 > It ensures that the class has only one instance to it and provides global point of access to it.
 
 ### 7. Command Pattern
+
 > It allows you to encapsulate the requests as an object, and thereby lets you parameterize the other objects with different requests,queue or logs and support undoable operations
+
+### 8. Adapter Pattern
+
+> It converts the interface of a class into the interface that client expects. Adapter lets class to work together that couldn't otherwise due to incompatible interfaces.
