@@ -40,3 +40,7 @@ This File contains the definitions for the standard design patterns.
 
 > It provides an unified interface to set of interfaces in a subsystem. Facade defines a higher level interface that makes the subsystem easier to use.
 
+#### 10. Template Method Pattern
+
+> It provides skeleton for an algorithm in a method and deferring some steps in the sub classes. Template method allows sub classes to define/redefine the steps without altering the algorithm.
+
