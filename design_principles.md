@@ -17,3 +17,5 @@ Design principles
 6. Depends upon abstractions not on concrete implementations. (dependency inversion principle)
 
 7. Principle of Lease knowledge - talk only to your immediate friends.
+
+8. Hollywood principle - Don't call us, we'll call you.
