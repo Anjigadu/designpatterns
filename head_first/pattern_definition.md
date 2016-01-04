@@ -47,3 +47,8 @@ This File contains the definitions for the standard design patterns.
 #### 11. Iterator Pattern
 
 > It provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+#### 12. Composite Pattern
+
+> It allows you to compose objects in tree structure to represent the part - whole hierarchies. composite lets the client to treat object and composites uniformly.
+
