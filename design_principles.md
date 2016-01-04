@@ -19,3 +19,5 @@ Design principles
 7. Principle of Lease knowledge - talk only to your immediate friends.
 
 8. Hollywood principle - Don't call us, we'll call you.
+
+9. A class should have only one reason to change.
