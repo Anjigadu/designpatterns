@@ -44,3 +44,6 @@ This File contains the definitions for the standard design patterns.
 
 > It provides skeleton for an algorithm in a method and deferring some steps in the sub classes. Template method allows sub classes to define/redefine the steps without altering the algorithm.
 
+#### 11. Iterator Pattern
+
+> It provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
