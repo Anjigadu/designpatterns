@@ -52,3 +52,6 @@ This File contains the definitions for the standard design patterns.
 
 > It allows you to compose objects in tree structure to represent the part - whole hierarchies. composite lets the client to treat object and composites uniformly.
 
+#### 13. State Pattern
+
+> It allows an object to alter its behaviour when its internal state changes. The object will appear to change its class.
