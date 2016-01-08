@@ -55,3 +55,7 @@ This File contains the definitions for the standard design patterns.
 #### 13. State Pattern
 
 > It allows an object to alter its behaviour when its internal state changes. The object will appear to change its class.
+
+#### 14. Proxy Pattern
+
+> It provides a surrogate or placeholder for another object to control access to it.
